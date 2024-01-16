@@ -1,5 +1,8 @@
 _repo: La-retraite-ardente_72630
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72630-h/images/cover.jpg
 creator:
   author:
     agent_name: Prévost, Marcel
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Marcel_Prévost
     - https://fr.wikipedia.org/wiki/Marcel_Pr%C3%A9vost
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72630#La-retraite-ardente
 gutenberg_issued: '2024-01-05'
 gutenberg_type: Text
 identifiers:
